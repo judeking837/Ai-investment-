@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ProfitPilot AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ProfitPilot AI</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#how">How It Works</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Let AI Grow Your Money.</h2>
+    <p>Invest smarter with AI. We manage your investments and take 10% of the profits. You keep 90%.</p>
+    <a href="#contact" class="btn">Get Started</a>
+  </section>
+
+  <section id="how">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Connect your brokerage account (Coming Soon).</li>
+      <li>We use AI to trade stocks, ETFs, and crypto based on market conditions.</li>
+      <li>Every month, we take 10% of your profits. No profit? No charge.</li>
+    </ol>
+  </section>
+
+  <section id="pricing">
+    <h2>Pricing</h2>
+    <p><strong>Free to start.</strong> We only earn when you earn.</p>
+    <ul>
+      <li>0% management fee</li>
+      <li>10% profit-sharing (monthly)</li>
+      <li>No lock-ins or hidden fees</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@profitpilot.ai</p>
+    <p>Instagram: @profitpilot_ai</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ProfitPilot AI. All rights reserved.</p>
+  </footer>
+</body>
+</html>
